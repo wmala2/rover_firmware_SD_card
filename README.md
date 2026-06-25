@@ -198,4 +198,4 @@ This prevents overshoot and sluggish recovery after saturation.
 
 ## License
 
-MIT (or project-specific — update as needed)
+MIT
